@@ -1,5 +1,5 @@
 # allyourlink
-My first foray into Python programming. Just needed a small but simple program to pull all links from a websites.
+My first foray into Python programming. Just needed a small but simple program to pull all links from websites.
 Made small as possible for termux.
 
 To install in termux, you must have git and python3 installed already.

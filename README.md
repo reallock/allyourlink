@@ -17,3 +17,5 @@ pip install -r requirements.txt
 
 To execute allyourlink:                          
 python3 allyourlink.py
+
+App automatically prefixes https:// in front of doamain name.

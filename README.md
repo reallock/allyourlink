@@ -4,16 +4,16 @@ Made small as possible for termux.
 
 To install in termux, you must have git and python3 installed already.
 
-To install git
+To install git:                                
 pkg install git
 
-Clone allyourlink
+Clone allyourlink:                           
 git clone https://github.com/reallock/allyourlink.git
 
 cd allyourlink
 
-Install requirements.txt
+Install requirements.txt:                              
 pip install -r requirements.txt
 
-To execute allyourlink
+To execute allyourlink:                          
 python3 allyourlink.py
